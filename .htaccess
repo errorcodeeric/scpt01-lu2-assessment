@@ -1,0 +1,4 @@
+ <Files ~ "(.js|.css)">
+    Order allow,deny
+    deny from all
+    </Files>
